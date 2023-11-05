@@ -1,6 +1,6 @@
-# cutfx
+# Synclin App User
 
-A new Flutter project.
+Code development Synclin App for IOS & Android users.
 
 ## Getting Started
 
